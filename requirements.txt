@@ -1,3 +1,4 @@
 email_validator
+odoo_test_helper
 unicodecsv
 zeep
